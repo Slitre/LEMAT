@@ -4,6 +4,8 @@ LEMAT is an embedded piano teaching aid designed to help beginners learn key pla
 
 The system uses multiple time-of-flight sensors to detect hand/finger interaction across piano keys and provides feedback using individually addressable LEDs, with additional display and audio support.
 
+This project was completed for a university course (ELEC3117). The partner of the project was Matthew Nassif [(LinkedIn Profile)](https://www.linkedin.com/in/matthew-nassif-742663318/). 
+
 ---
 
 ## Project Overview
