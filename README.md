@@ -297,6 +297,8 @@ Electrical Engineering / Computer Science
 University of New South Wales
 
 **Matthew Nassif**
+Electrical Engineering
+University of New South Wales
 
 ---
 
