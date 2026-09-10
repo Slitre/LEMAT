@@ -94,7 +94,7 @@ The power architecture supports portable battery operation while supplying the d
 
 ### PCB / Interconnect
 
-* Custom 4-layer PCB
+* Custom 2-layer PCB
 * Dedicated sensor distribution board
 * JST-SH connectors for modular sensor connection
 
@@ -292,11 +292,11 @@ Further technical details, design decisions, testing results, and project evalua
 
 ## Authors
 
-**Leo**
+**Leo** - 
 Electrical Engineering / Computer Science
 University of New South Wales
 
-**Matthew Nassif**
+**Matthew Nassif** - 
 Electrical Engineering
 University of New South Wales
 
